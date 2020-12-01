@@ -1,0 +1,66 @@
+img.Logo {
+	height: 50px;
+}
+.nav-item {
+	margin-left: 20px;
+}
+div.background {
+	min-height: 400px;
+	background: #1f7bde;
+}
+button#dropdownMenuButton, .dropdown-item {
+	width: 360px!important;
+	font-size: 130%;
+}
+.csalogato {
+	color: white;
+	margin-bottom: 50px;
+	text-align:center;
+}
+.csalogato2 {
+	font-family: "Segoe UI";
+	font-size: 20px;
+	font-style: italic;
+}
+.csalogatopizza {
+	max-width: 100%;
+}
+.szurke {
+	background: #ebeced;
+}
+.elerhetosegek {
+	margin-top: 30px;
+}
+.pkapcsolat {
+	font-size: 22px;
+	font-family: "Segoe UI";
+	margin-top: 20px;
+	margin-bottom: 60px;
+
+}
+div.footer {
+	background: #343a40;
+	height: 5%;
+
+}
+p.footer {
+	font-size: 19px;
+	color: white;
+	margin-bottom: 0;
+}
+footer {
+	position: fixed;
+	left:0;
+	bottom: 0;
+	width: 100%;
+}
+.succRegister {
+	position: absolute;
+	left: 50%;
+	top: 0;
+	transform: translate(-50%, 0); 
+}
+.etlapbtn {
+	width: 100%;
+	margin: 10px!important;
+}
